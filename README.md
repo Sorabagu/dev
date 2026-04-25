@@ -1,4 +1,3 @@
-# Dev
 <p align="center">
   <img src="/icon.png" alt="Dev" width="128" height="128">
 </p>
@@ -75,8 +74,12 @@ En résumé : un environnement ciblé *front web* sur Mac, du fichier unique au 
 
 *Les commandes d’*Édition* standard du menu macOS s’appliquent dans l’éditeur (annuler, refaire, copier, coller, tout sélectionner, etc.).*
 
-## Barre de statut
-
-Affiche le projet en cours, le fichier actif, le type de fichier et, en mode inspection, des indications utiles (par ex. nombre de lignes concernées).
-
 ---
+
+<p align="left">
+  <img src="https://images.icon-icons.com/4023/PNG/512/fra_fr_france_flag_icon_255812.png" alt="Dev" height="25px"> https://soradev.fr/fr/app/dev
+</p>
+
+<p align="left">
+  <img src="https://images.icon-icons.com/4023/PNG/512/united_kingdom_gb_gbr_flag_icon_255824.png" alt="Dev" height="25px"> https://soradev.fr/en/app/dev
+</p>
