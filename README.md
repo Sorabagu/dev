@@ -1,4 +1,7 @@
 # Dev
+<p align="center">
+  <img src="/icon.png" alt="Dev" width="128" height="128">
+</p>
 
 **Dev** est une application macOS native dédiée à la création et à l’itération sur des pages et petits sites web. Elle rassemble l’édition de code, la prévisualisation, la navigation dans les fichiers et le débogage dans une seule interface, pour aller droit au but sans la complexité d’un IDE généraliste.
 
@@ -18,6 +21,9 @@ En résumé : un environnement ciblé *front web* sur Mac, du fichier unique au 
 - **Onglets** pour plusieurs fichiers ouverts, avec indicateur de modifications non enregistrées.
 - **Numérotation des lignes** et thèmes d’éditeur **clair / sombre**, avec possibilité d’**ajuster le thème par type de fichier** (HTML, CSS, JS, etc.).
 - **Raccourcis** pour la sauvegarde, la navigation par onglets, annuler / refaire, copier-coller, etc. (voir ci-dessous).
+<p align="center">
+  <img src="https://app.soradev.fr/app/dev/screenshot/affichage-editeur-css.png" alt="Dev" height="300px">
+</p>
 
 ## Prévisualisation
 
@@ -25,6 +31,9 @@ En résumé : un environnement ciblé *front web* sur Mac, du fichier unique au 
 - **Fenêtre de prévisualisation** détachable / redimensionnable, pratique sur un second écran.
 - **Modes responsive** (bureau, tablette, mobile) pour valider l’apparence à différentes largeurs.
 - **Mode inspection** : pointer un élément dans l’aperçu met en évidence le code correspondant dans l’éditeur.
+<p align="center">
+  <img src="https://app.soradev.fr/app/dev/screenshot/prevu-responsive.png" alt="Dev" height="300px">
+</p>
 
 ## Explorateur de fichiers
 
@@ -49,6 +58,9 @@ En résumé : un environnement ciblé *front web* sur Mac, du fichier unique au 
 
 - Thème général (en-tête, barres latérales, bordures) pour coller à votre habitude de travail.
 - **Interface multilingue** (sélecteur de langue ; option « système » possible).
+<p align="center">
+  <img src="https://app.soradev.fr/app/dev/screenshot/theme.png" alt="Dev" height="300px">
+</p>
 
 ## Raccourcis et navigation (macOS)
 
